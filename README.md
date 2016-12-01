@@ -1,2 +1,4 @@
 # copyOfDIY
 working from the Open Sourcerer Guide
+So, I have basically no idea what all this is about. I never got into computers when I was younger. For some reason they never interested me. I do know however that way back that it used to be that "good at computers" only really meant one of two things: you understoof the hardware, or you were a master of one particular language and understood all the nuances and applications of that one language. 
+Late in life, I kind of stumbled backwards into a computer job and have been cobbling together a knoweledge of computers on my own. Turns out that to be "good at computers" these days means something completely different. Even though I have become relatively proficient in Python, C#, and Javascript, I am still completely utterly lost in the wilderness that computers have become. 
